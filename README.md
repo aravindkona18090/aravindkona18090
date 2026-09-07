@@ -14,9 +14,6 @@
     <a href="https://www.linkedin.com/in/konaaravind" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
     <a href="https://aravindkona18090.github.io/portfolio" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
@@ -79,18 +76,9 @@
 </div>
 
 <div align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindkona18090&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
-
----
-
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aravindkona18090/aravindkona18090/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aravindkona18090/aravindkona18090/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aravindkona18090/aravindkona18090/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
