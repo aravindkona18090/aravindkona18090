@@ -1,82 +1,81 @@
-<div align="center">
+# Kona Aravind Ranga Reddy
+### Software Engineer & Applied ML Developer
+B.Tech in Artificial Intelligence & Machine Learning — GITAM University, Bengaluru
 
-  <!-- Aesthetic Header -->
-  <h1>Hi there, I'm <span style="color: #2563eb;">Aravind Kona</span> 👋</h1>
-  
-  <p align="center">
-    <a href="https://github.com/aravindkona18090">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=B.Tech+AI%2FML+Student+%40+GITAM;Full-Stack+%26+Generative+AI+Developer;Data+Analyst+Intern;Open+to+Collaborations" alt="Typing SVG" />
-    </a>
-  </p>
-
-  <p align="center">
-    <b>Aspiring AI/ML Engineer & Full-Stack Developer</b> building intelligent, scalable digital solutions.
-  </p>
-
-  <!-- Clean Pill Badges -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/konaaravind" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://aravindkona18090.github.io/portfolio" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-
-</div>
+[![LinkedIn](httpsimg.shields.iobadgeLinkedIn-0077B5style=flat-square&logo=linkedin&logoColor=white)](httpswww.linkedin.cominkonaaravind)
+[![Portfolio](httpsimg.shields.iobadgeLive_Portfolio-0969DAstyle=flat-square&logo=google-chrome&logoColor=white)](httpsaravindkona18090.github.ioportfolio)
+[![GitHub](httpsimg.shields.iobadgeGitHub-181717style=flat-square&logo=github&logoColor=white)](httpsgithub.comaravindkona18090)
+[![Email](httpsimg.shields.iobadgeEmail-Contact_Me-EA4335style=flat-square&logo=gmail&logoColor=white)](mailtoaravindkona18090@gmail.com)
 
 ---
 
-### 💡 About Me
+## 📌 Executive Summary
+Passionate Software Engineer specializing in Applied Machine Learning, Distributed Backend Systems, and Full-Stack Application Architecture. Experienced in taking complex user requirements and transforming them into resilient, secure, and production-ready applications. 
 
-- 🎓 **Academics:** Pursuing B.Tech in **Artificial Intelligence & Machine Learning** at GITAM University, Bengaluru.
-- 💼 **Industry Experience:** Data Analyst Intern | Working with predictive models and data-driven insights.
-- 🎯 **What I'm Building:** Campus utility platforms and AI-powered civic systems.
-- 🔬 **Core Interests:** Deep Learning, NLP, Generative AI, Cloud Systems & API Design.
-- 🤝 **Let's Connect:** Reach out on [LinkedIn](https://www.linkedin.com/in/konaaravind) for internships or collaborations.
+Currently pursuing a B.Tech in AIML with industry experience as a Data Analyst Intern, focusing on data modeling, algorithmic optimization, and intelligent triage systems.
 
----
-
-### 💻 Technologies & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,php,js,mysql,html,css,git,github,vscode&perline=6" alt="Tech Stack" />
-  </a>
-</p>
+ Status 🎯 Actively seeking Software Engineering (SWE) and Applied AIML Internships (Open to On-Site, Hybrid, or Remote).
 
 ---
 
-### 🚀 Featured Work
+## 🛠️ Technical Competencies
 
-#### 🚗 **[flexiride](https://github.com/aravindkona18090/flexiride)**
-> *Full-stack campus ride-sharing and carpooling platform.*
-- **Features:** Automated ride matching, booking workflow, identity verification, real-time-style chat, and admin panel.
-- **Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap`
-
-#### 🏛️ **[CivicConnect](https://github.com/aravindkona18090/CivicConnect)**
-> *AI-powered civic issue reporting and resolution platform.*
-- **Features:** Automated image analysis for issue verification, location-based duplicate detection, and multilingual citizen support.
-- **Tech Stack:** `PHP` `Python / AI` `MySQL` `REST APIs`
-
-#### 🌐 **[Personal Portfolio](https://github.com/aravindkona18090/portfolio)**
-> *Interactive personal portfolio website.*
-- **Features:** Responsive interface, project showcase, interactive experience timeline, and contact portal.
-- **Tech Stack:** `HTML5` `CSS3` `JavaScript`
+ Domain  Technologies & Frameworks 
+ ---  --- 
+ Languages  Python, C++, Java, PHP, JavaScript (ES6+), SQL 
+ AI, ML & Data  PyTorch, Scikit-Learn, OpenCV, NumPy, Pandas, Data Modeling & ETL 
+ Backend & Architecture  RESTful API Design, MVC Pattern, RBAC Auth, SessionToken Security 
+ Databases & Storage  MySQL (Relational Schema Design, Indexing, ACID Transactions) 
+ Web & Frontend  HTML5, CSS3, Modern JavaScript, Responsive UIUX 
+ DevOps & Tooling  Git, GitHub Actions, LinuxBash, VS Code, Postman 
 
 ---
 
-### 📈 Activity & Insights
+## 🚀 Featured Engineering Systems
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=aravindkona18090&show_icons=true&hide_rank=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=4b5563&custom_title=GitHub%20Activity" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aravindkona18090&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&hide=Hack" alt="Top Languages" />
-</p>
+### 1. [FlexiRide — Campus Mobility & Real-Time Ride Matching Engine](httpsgithub.comaravindkona18090flexiride)
+ A full-stack transportation platform engineered to solve campus commute bottlenecks with verified student security.
+
+- System Architecture Built a modular MVC backend handling concurrent seat reservations, ride scheduling, and trip lifecycle states.
+- Security & RBAC Implemented institutional identity verification with secure session management and role-based access control (Riders, Drivers, Admins).
+- Transactional Integrity Designed transactional MySQL database schemas to prevent race conditions and overbooking during high-traffic matching windows.
+- Communication Layer Engineered asynchronous chat and live booking notification feeds for coordinated campus pick-ups.
+- Core Stack `PHP` `MySQL` `JavaScript` `Bootstrap` `RESTful Architecture`
 
 ---
 
-<div align="center">
-  <sub>Designed with clean aesthetics • Kona Aravind Ranga Reddy</sub>
-</div>
+### 2. [CivicConnect — Intelligent Citizen Issue Triaging & Vision System](httpsgithub.comaravindkona18090CivicConnect)
+ AI-augmented civic management platform automating urban infrastructure reporting, deduplication, and routing.
+
+- Automated Image Triaging Integrated computer vision pipelines to analyze citizen-submitted photos, auto-classifying issue severity (e.g., road hazards, sanitation).
+- Spatial Deduplication Formulated proximity-based algorithms to cluster and merge duplicate civic reports occurring within specific coordinate thresholds.
+- Multilingual Pipeline Designed an accessible reporting interface supporting multilingual submissions to broaden citizen participation.
+- Workflow Automation Structured role-based escalation pipelines directing verified tickets directly to relevant municipal department heads.
+- Core Stack `PHP` `Python (Applied AIML)` `MySQL` `REST APIs` `OpenCV`
+
+---
+
+### 3. [Personal Portfolio & Technical Showcase](httpsgithub.comaravindkona18090portfolio)
+ High-performance developer portfolio built with semantic web architecture and zero external framework overhead.
+
+- Performance First Optimized asset delivery, resulting in instantaneous page loads and a clean user journey for recruiters.
+- Responsive Architecture Custom responsive layouts accommodating mobile, tablet, and widescreen displays.
+- Core Stack `HTML5` `CSS3` `Modern JavaScript`
+
+---
+
+## 🌐 Open Source & Community Contributions
+
+- Active Open-Source Contributor Contributed to the [`is-a-dev`](httpsgithub.comis-a-dev) community infrastructure ecosystem.
+- Consistent Builder 130+ version-controlled contributions over the past year across production web applications and ML engineering tasks.
+- Peer Code Review & Collaboration Actively maintaining clean Git commit histories, branch workflows, and modular codebase structures.
+
+---
+
+## 📬 Let's Connect
+
+I am actively interviewing for Software Engineering and AIML internship roles. If your team is building scalable products or solving challenging data problems, let's talk
+
+- LinkedIn [linkedin.cominkonaaravind](httpswww.linkedin.cominkonaaravind)
+- Portfolio [aravindkona18090.github.ioportfolio](httpsaravindkona18090.github.ioportfolio)
+- Direct Email [aravindkona18090@gmail.com](mailtoaravindkona18090@gmail.com)
