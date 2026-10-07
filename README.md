@@ -50,7 +50,7 @@ Motivated and detail-oriented Computer Science & AI/ML undergraduate (**CGPA: 9.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,mysql,pytorch,html,css,bootstrap,git,github,vscode,linux&perline=8" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,mysql,html,css,bootstrap,git,github,vscode,linux&perline=7" alt="Tech Stack Icons" />
   </a>
 </div>
 
